@@ -514,6 +514,6 @@ Submenu
     gap: 1rem;
   }
   .submenu-links svg {
-    color: black;
+    color: var(--grey-500);
   }
 }
